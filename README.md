@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there, I'm Sogo👋 </p>
+## <p align="center"> Hi there, I'm Sogo👋 </p>
 
 <!--
 **sogofunmi/sogofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
