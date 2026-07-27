@@ -9,8 +9,11 @@ Data Scientist with 3+ years of experience operating at the intersection of Data
 ## ⚙️ Tech Stack
 
 **Languages: Python & SQL** \
+<br>
 **Cloud Platforms: AWS** \
+<br>
 **CI/CD & Containers: Gitlab CI, Docker, & Kubernetes** \
+<br>
 **Monitoring & Observability: MLflow, Grafana, & Prometheus**
 <!--
 **sogofunmi/sogofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
