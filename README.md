@@ -8,13 +8,22 @@ Data Scientist with 3+ years of experience operating at the intersection of Data
 
 ## ⚙️ Tech Stack
 
-**Languages: Python & SQL** \
+**Languages:** ![Static Badge](https://img.shields.io/badge/Python-violet?style=flat&logo=python&logoColor=blue)\
 <br>
-**Cloud Platforms: AWS** \
+**Cloud Platforms:** ![Static Badge](https://img.shields.io/badge/AWS-%234169E1?style=flat&logoColor=blue)\
 <br>
-**CI/CD & Containers: Gitlab CI, Docker, & Kubernetes** \
+**CI/CD & Containers:** ![Static Badge](https://img.shields.io/badge/GitLab%20CI-violet?style=flat&logo=gitlab&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Docker-violet?style=flat&logo=docker&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Kubernetes-violet?style=flat&logo=kubernetes&logoColor=blue)
+ \
 <br>
-**Monitoring & Observability: MLflow, Grafana, & Prometheus**
+**Monitoring & Observability:** ![Static Badge](https://img.shields.io/badge/MLflow-violet?style=flat&logo=mlflow&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Grafana-violet?style=flat&logo=grafana&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Prometheus-violet?style=flat&logo=prometheus&logoColor=blue) \
+<br>
+**Scripting:** ![Static Badge](https://img.shields.io/badge/Powershell-%234169E1?style=flat&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Bash-%234169E1?style=flat&logoColor=blue)
+
+
 <!--
 **sogofunmi/sogofunmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
