@@ -12,6 +12,8 @@ Data Scientist with 3+ years of experience operating at the intersection of Data
 <br>
 **Cloud Platforms:** ![Static Badge](https://img.shields.io/badge/AWS-%234169E1?style=flat&logoColor=blue)\
 <br>
+**Infrastructure as Code:** ![Static Badge](https://img.shields.io/badge/Terraform-violet%3Fstyle%3Dflat%26logo%3Dgrafana%26logoColor%3Dblue?style=flat&logo=terraform&logoColor=blue&color=violet)\
+<br>
 **CI/CD & Containers:** ![Static Badge](https://img.shields.io/badge/GitLab%20CI-violet?style=flat&logo=gitlab&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Docker-violet?style=flat&logo=docker&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-violet?style=flat&logo=kubernetes&logoColor=blue)
  \
