@@ -8,22 +8,22 @@ Data Scientist with 3+ years of experience operating at the intersection of Data
 
 ## Tech Stack
 
-**Languages:** ![Static Badge](https://img.shields.io/badge/Python-violet?style=flat&logo=python&logoColor=blue)\
+**Languages:** ![Static Badge](https://img.shields.io/badge/Python-orange?style=flat&logo=python&logoColor=blue)\
 <br>
-**Cloud Platforms:** ![Static Badge](https://img.shields.io/badge/AWS-%234169E1?style=flat&logoColor=blue)\
+**Cloud Platforms:** ![Static Badge](https://img.shields.io/badge/AWS-purple?style=flat&logoColor=blue)\
 <br>
 **Infrastructure as Code:** ![Static Badge](https://img.shields.io/badge/Terraform-orange%3Fstyle%3Dflat%26logo%3Dgrafana%26logoColor%3Dblue?style=flat&logo=terraform&logoColor=blue&color=orange)\
 <br>
-**CI/CD & Containers:** ![Static Badge](https://img.shields.io/badge/GitLab%20CI-violet?style=flat&logo=gitlab&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Docker-violet?style=flat&logo=docker&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Kubernetes-violet?style=flat&logo=kubernetes&logoColor=blue)
+**CI/CD & Containers:** ![Static Badge](https://img.shields.io/badge/GitLab%20CI-purple?style=flat&logo=gitlab&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Docker-purple?style=flat&logo=docker&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Kubernetes-purple?style=flat&logo=kubernetes&logoColor=blue)
  \
 <br>
-**Monitoring & Observability:** ![Static Badge](https://img.shields.io/badge/MLflow-violet?style=flat&logo=mlflow&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Grafana-violet?style=flat&logo=grafana&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Prometheus-violet?style=flat&logo=prometheus&logoColor=blue) \
+**Monitoring & Observability:** ![Static Badge](https://img.shields.io/badge/MLflow-orange?style=flat&logo=mlflow&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Grafana-orange?style=flat&logo=grafana&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Prometheus-orange?style=flat&logo=prometheus&logoColor=blue) \
 <br>
-**Scripting:** ![Static Badge](https://img.shields.io/badge/Powershell-%234169E1?style=flat&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Bash-%234169E1?style=flat&logoColor=blue)
+**Scripting:** ![Static Badge](https://img.shields.io/badge/Powershell-purple?style=flat&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/Bash-purple?style=flat&logoColor=blue)
 
 
 <!--
