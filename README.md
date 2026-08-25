@@ -2,11 +2,11 @@
 
 ### <p align="center"> Data Scientist × ML Engineer </p>
 
-## 🧭 About Me
+## About Me
 
 Data Scientist with 3+ years of experience operating at the intersection of Data Science, Machine Learning, and MLOps. I am skilled in designing and operating production-grade infrastructure on AWS via automated CI/CD pipelines. I also possess a strong foundation in Python, Kubernetes, SQL, and core cloud architecture, with a proven passion for delivering applied analytics and scalable deployments.
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 **Languages:** ![Static Badge](https://img.shields.io/badge/Python-violet?style=flat&logo=python&logoColor=blue)\
 <br>
