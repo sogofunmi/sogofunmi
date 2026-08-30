@@ -22,8 +22,6 @@ Data Scientist with 3+ years of experience operating at the intersection of Data
 ![Static Badge](https://img.shields.io/badge/Grafana-orange?style=flat&logo=grafana&logoColor=blue)
 ![Static Badge](https://img.shields.io/badge/Prometheus-orange?style=flat&logo=prometheus&logoColor=blue) \
 <br>
-**Scripting:** ![Static Badge](https://img.shields.io/badge/Powershell-purple?style=flat&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/Bash-purple?style=flat&logoColor=blue)
 
 
 <!--
